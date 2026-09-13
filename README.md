@@ -23,10 +23,7 @@ The ten multiplex layers correspond to **Knowledge, Power, Status, Trust, Suppor
 
 The complete utterance-level annotations are not distributed directly in this repository, but can be requested for research purposes.
 
-For access or questions about the dataset, contact:
-
-**Davide Vega**
-[davide.vega@it.uu.se](mailto:davide.vega@it.uu.se)
+For access or questions about the dataset, feel free to contact us: [Theodora Moldovan](mailto:theodora.moldovan@it.uu.se), [Georgios Panayiotou](mailto:georgios.panayiotou@it.uu.se), [Davide Vega](mailto:davide.vega@it.uu.se)
 
 ## Paper
 
