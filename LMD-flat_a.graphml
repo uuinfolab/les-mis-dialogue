@@ -1,0 +1,294 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Banker" />
+    <node id="Soldier2" />
+    <node id="Factoryworkers" />
+    <node id="Furnituredealer" />
+    <node id="Fantine" />
+    <node id="Hairdresser" />
+    <node id="Femalespectator" />
+    <node id="Letterreader" />
+    <node id="Forewoman" />
+    <node id="Prosecutor" />
+    <node id="Malefactoryworker1" />
+    <node id="Protestor3" />
+    <node id="Publicofficial" />
+    <node id="Begger" />
+    <node id="Grantaire" />
+    <node id="Trick2" />
+    <node id="Cosette" />
+    <node id="Marius" />
+    <node id="Simplice" />
+    <node id="Angrywoman" />
+    <node id="Soldier35" />
+    <node id="Soldier8" />
+    <node id="Soldier4" />
+    <node id="Soldier13" />
+    <node id="ABCsociety" />
+    <node id="Toussaint" />
+    <node id="Enjolras" />
+    <node id="Soldier19" />
+    <node id="Soldiers" />
+    <node id="Soldier37" />
+    <node id="Soldier34" />
+    <node id="Soldier31" />
+    <node id="General" />
+    <node id="Trick6" />
+    <node id="Thenardier" />
+    <node id="Valjen" />
+    <node id="Femalefactoryworker1" />
+    <node id="Pierre" />
+    <node id="Messenger" />
+    <node id="MmeDeR" />
+    <node id="Soldier1" />
+    <node id="Lombard" />
+    <node id="Beauvais" />
+    <node id="MmeThenardier" />
+    <node id="Victurien" />
+    <node id="Soldier33" />
+    <node id="Brevet" />
+    <node id="Courfeyrac" />
+    <node id="Soldier32" />
+    <node id="Javert" />
+    <node id="Trick3" />
+    <node id="Peasant" />
+    <node id="Landlord" />
+    <node id="Trick4" />
+    <node id="Priest" />
+    <node id="Child1" />
+    <node id="Soldier10" />
+    <node id="Soldier7" />
+    <node id="Trick5" />
+    <node id="Bertin" />
+    <node id="Soldier30" />
+    <node id="Soldier26" />
+    <node id="Soldier29" />
+    <node id="Fauchelevent" />
+    <node id="Soldier18" />
+    <node id="Protestor2" />
+    <node id="MmeMagloire" />
+    <node id="Soldier6" />
+    <node id="Soldier36" />
+    <node id="Soldier22" />
+    <node id="Femalefactoryworker2" />
+    <node id="Soldier5" />
+    <node id="Soldier3" />
+    <node id="Champmathieu" />
+    <node id="Coachdriver1" />
+    <node id="Soldier24" />
+    <node id="Poorperson1" />
+    <node id="Myriel" />
+    <node id="Soldier12" />
+    <node id="Soldier25" />
+    <node id="Soldier17" />
+    <node id="Soldier28" />
+    <node id="Soldier23" />
+    <node id="Doctor" />
+    <node id="Informant" />
+    <node id="Valjean" />
+    <node id="Soldier14" />
+    <node id="Soldier27" />
+    <node id="Trick1" />
+    <node id="Soldier" />
+    <node id="Bankerclerk" />
+    <node id="Child2" />
+    <node id="Poorperson3" />
+    <node id="Poorperson4" />
+    <node id="Soldier9" />
+    <node id="Prostitutes" />
+    <node id="Soldier20" />
+    <node id="Foreman" />
+    <node id="Gavroche" />
+    <node id="Courtman" />
+    <node id="Poorperson2" />
+    <node id="Protestors" />
+    <node id="Soldier21" />
+    <node id="Malefactoryworker2" />
+    <node id="Judge" />
+    <node id="Protestor1" />
+    <node id="Chabouillet" />
+    <node id="Prostitute" />
+    <node id="Soldier16" />
+    <node id="Femalefactoryworker3" />
+    <node id="Soldier15" />
+    <node id="Coachdriver2" />
+    <node id="Speechcrowd" />
+    <node id="MotherInnocent" />
+    <node id="Femalefactoryworker4" />
+    <node id="Angryman" />
+    <node id="Soldier11" />
+    <edge source="Banker" target="Valjean" />
+    <edge source="Soldier2" target="Soldier1" />
+    <edge source="Soldier2" target="Myriel" />
+    <edge source="Factoryworkers" target="Forewoman" />
+    <edge source="Furnituredealer" target="Fantine" />
+    <edge source="Furnituredealer" target="Landlord" />
+    <edge source="Fantine" target="Javert" />
+    <edge source="Fantine" target="Valjean" />
+    <edge source="Fantine" target="Forewoman" />
+    <edge source="Fantine" target="Hairdresser" />
+    <edge source="Fantine" target="Landlord" />
+    <edge source="Fantine" target="Trick5" />
+    <edge source="Fantine" target="Trick4" />
+    <edge source="Fantine" target="Trick6" />
+    <edge source="Fantine" target="Victurien" />
+    <edge source="Fantine" target="Soldier6" />
+    <edge source="Fantine" target="Soldier7" />
+    <edge source="Fantine" target="Letterreader" />
+    <edge source="Fantine" target="Simplice" />
+    <edge source="Fantine" target="Prostitute" />
+    <edge source="Letterreader" target="Javert" />
+    <edge source="Forewoman" target="Javert" />
+    <edge source="Forewoman" target="Victurien" />
+    <edge source="Forewoman" target="Valjean" />
+    <edge source="Forewoman" target="Beauvais" />
+    <edge source="Prosecutor" target="Champmathieu" />
+    <edge source="Prosecutor" target="Bertin" />
+    <edge source="Prosecutor" target="Lombard" />
+    <edge source="Prosecutor" target="Judge" />
+    <edge source="Prosecutor" target="Brevet" />
+    <edge source="Malefactoryworker1" target="Malefactoryworker2" />
+    <edge source="Malefactoryworker1" target="Valjean" />
+    <edge source="Protestor3" target="Protestors" />
+    <edge source="Protestor3" target="Valjean" />
+    <edge source="Publicofficial" target="Valjean" />
+    <edge source="Begger" target="Cosette" />
+    <edge source="Grantaire" target="Javert" />
+    <edge source="Grantaire" target="Enjolras" />
+    <edge source="Grantaire" target="Valjean" />
+    <edge source="Grantaire" target="Soldier31" />
+    <edge source="Grantaire" target="Soldier30" />
+    <edge source="Trick2" target="Prostitute" />
+    <edge source="Cosette" target="Valjean" />
+    <edge source="Cosette" target="Marius" />
+    <edge source="Cosette" target="Toussaint" />
+    <edge source="Cosette" target="Gavroche" />
+    <edge source="Cosette" target="Javert" />
+    <edge source="Cosette" target="Coachdriver1" />
+    <edge source="Cosette" target="MmeThenardier" />
+    <edge source="Marius" target="Valjean" />
+    <edge source="Marius" target="Gavroche" />
+    <edge source="Marius" target="Angryman" />
+    <edge source="Marius" target="Speechcrowd" />
+    <edge source="Marius" target="Angrywoman" />
+    <edge source="Marius" target="Protestors" />
+    <edge source="Marius" target="Enjolras" />
+    <edge source="Marius" target="Javert" />
+    <edge source="Marius" target="Courfeyrac" />
+    <edge source="Marius" target="Child2" />
+    <edge source="Marius" target="Child1" />
+    <edge source="Simplice" target="Valjean" />
+    <edge source="Angrywoman" target="Angryman" />
+    <edge source="Angrywoman" target="Speechcrowd" />
+    <edge source="Soldier35" target="Javert" />
+    <edge source="Soldier8" target="Valjean" />
+    <edge source="Toussaint" target="Valjean" />
+    <edge source="Toussaint" target="Javert" />
+    <edge source="Enjolras" target="Valjean" />
+    <edge source="Enjolras" target="Gavroche" />
+    <edge source="Enjolras" target="Javert" />
+    <edge source="Enjolras" target="Soldier31" />
+    <edge source="Enjolras" target="Soldier30" />
+    <edge source="Enjolras" target="Courfeyrac" />
+    <edge source="Soldier19" target="Javert" />
+    <edge source="Soldiers" target="Soldier27" />
+    <edge source="Soldiers" target="Soldier32" />
+    <edge source="Soldiers" target="Soldier26" />
+    <edge source="Soldiers" target="Soldier29" />
+    <edge source="Soldiers" target="Soldier28" />
+    <edge source="Soldier37" target="Valjean" />
+    <edge source="Soldier37" target="Javert" />
+    <edge source="Soldier34" target="Javert" />
+    <edge source="Soldier31" target="Protestors" />
+    <edge source="General" target="Beauvais" />
+    <edge source="General" target="Javert" />
+    <edge source="Trick6" target="Trick5" />
+    <edge source="Trick6" target="Javert" />
+    <edge source="Trick6" target="Trick4" />
+    <edge source="Thenardier" target="Valjean" />
+    <edge source="Thenardier" target="MmeThenardier" />
+    <edge source="Femalefactoryworker1" target="Victurien" />
+    <edge source="Pierre" target="Valjean" />
+    <edge source="Pierre" target="Javert" />
+    <edge source="Messenger" target="Beauvais" />
+    <edge source="MmeDeR" target="Valjean" />
+    <edge source="Soldier1" target="Myriel" />
+    <edge source="Soldier1" target="Valjean" />
+    <edge source="Soldier1" target="MmeMagloire" />
+    <edge source="Soldier1" target="Soldier3" />
+    <edge source="Lombard" target="Valjean" />
+    <edge source="Lombard" target="Champmathieu" />
+    <edge source="Beauvais" target="Javert" />
+    <edge source="Beauvais" target="Valjean" />
+    <edge source="MmeThenardier" target="Valjean" />
+    <edge source="Soldier33" target="Javert" />
+    <edge source="Brevet" target="Valjean" />
+    <edge source="Brevet" target="Judge" />
+    <edge source="Courfeyrac" target="Coachdriver2" />
+    <edge source="Soldier32" target="Javert" />
+    <edge source="Javert" target="Valjean" />
+    <edge source="Javert" target="Chabouillet" />
+    <edge source="Javert" target="Informant" />
+    <edge source="Javert" target="Soldier25" />
+    <edge source="Javert" target="MotherInnocent" />
+    <edge source="Javert" target="Soldier6" />
+    <edge source="Javert" target="Soldier7" />
+    <edge source="Javert" target="Soldier21" />
+    <edge source="Javert" target="Soldier36" />
+    <edge source="Javert" target="Soldier5" />
+    <edge source="Javert" target="Soldier24" />
+    <edge source="Javert" target="Trick5" />
+    <edge source="Javert" target="Trick4" />
+    <edge source="Javert" target="Soldier10" />
+    <edge source="Javert" target="Soldier11" />
+    <edge source="Javert" target="Soldier12" />
+    <edge source="Javert" target="Soldier15" />
+    <edge source="Javert" target="Soldier20" />
+    <edge source="Javert" target="Soldier17" />
+    <edge source="Javert" target="Soldier16" />
+    <edge source="Javert" target="Soldier18" />
+    <edge source="Javert" target="Peasant" />
+    <edge source="Javert" target="Soldier" />
+    <edge source="Trick3" target="Prostitute" />
+    <edge source="Peasant" target="Valjean" />
+    <edge source="Trick4" target="Trick5" />
+    <edge source="Priest" target="Gavroche" />
+    <edge source="Priest" target="Valjean" />
+    <edge source="Child1" target="Gavroche" />
+    <edge source="Soldier7" target="Valjean" />
+    <edge source="Bertin" target="Valjean" />
+    <edge source="Soldier30" target="Protestors" />
+    <edge source="Soldier30" target="Soldier27" />
+    <edge source="Soldier29" target="Soldier28" />
+    <edge source="Fauchelevent" target="Valjean" />
+    <edge source="Protestor2" target="Protestors" />
+    <edge source="Protestor2" target="Valjean" />
+    <edge source="MmeMagloire" target="Myriel" />
+    <edge source="MmeMagloire" target="Valjean" />
+    <edge source="Soldier6" target="Valjean" />
+    <edge source="Soldier36" target="Valjean" />
+    <edge source="Femalefactoryworker2" target="Valjean" />
+    <edge source="Soldier3" target="Myriel" />
+    <edge source="Champmathieu" target="Judge" />
+    <edge source="Poorperson1" target="Valjean" />
+    <edge source="Myriel" target="Valjean" />
+    <edge source="Doctor" target="Valjean" />
+    <edge source="Valjean" target="MotherInnocent" />
+    <edge source="Valjean" target="Malefactoryworker2" />
+    <edge source="Valjean" target="Judge" />
+    <edge source="Valjean" target="Child2" />
+    <edge source="Valjean" target="Soldier9" />
+    <edge source="Valjean" target="Poorperson4" />
+    <edge source="Valjean" target="Gavroche" />
+    <edge source="Valjean" target="Foreman" />
+    <edge source="Valjean" target="Poorperson3" />
+    <edge source="Valjean" target="Poorperson2" />
+    <edge source="Valjean" target="Femalefactoryworker4" />
+    <edge source="Valjean" target="Femalefactoryworker3" />
+    <edge source="Trick1" target="Prostitute" />
+    <edge source="Child2" target="Gavroche" />
+    <edge source="Gavroche" target="Protestor1" />
+    <edge source="Speechcrowd" target="Angryman" />
+  </graph>
+</graphml>
