@@ -19,6 +19,8 @@ The repository provides:
 
 The ten multiplex layers correspond to **Knowledge, Power, Status, Trust, Support, Romance, Similarity, Identity, Fun, and Conflict**.
 
+We also provide **HIF-LMD_r.hif**, the complete all-recipient network as a hypergraph in HIF format.
+
 ## Annotated utterances
 
 The complete utterance-level annotations are not distributed directly in this repository, but can be requested for research purposes.
